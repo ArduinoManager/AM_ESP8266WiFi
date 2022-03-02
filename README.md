@@ -5,7 +5,7 @@ This is an Arduino library to work with Arduino Manager app available for iOS an
  * Supported Boards: Any ES8622 board
  * Protocol: WiFi
 
- **Please Note:** This library is for using the ESP8266 board as micronctroller. If you need to use the ESP8622 just as WiFi communication device (connecting it to your microcontroller via UART), you need a this library instead:
+ **Please Note:** This library is for using the ESP8266 board as microcontroller. If you need to use the ESP8622 just as WiFi communication device (connecting it to your microcontroller via UART), you need a this library instead:
 
  https://github.com/ArduinoManager/AM_ESP8266
 
